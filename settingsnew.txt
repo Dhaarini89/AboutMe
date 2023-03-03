@@ -1,3 +1,5 @@
+
+Anew read
 PluginManagement {
     repositories {
         gradlePluginPortal()
